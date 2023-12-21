@@ -2,9 +2,9 @@
 
 ## Group members :
 
-    # Shadrack BODJE
-    # Boutaina BELGHITI
-    # Ibrahim CHOUAY
+    - Shadrack BODJE
+    - Boutaina BELGHITI
+    - Ibrahim CHOUAY
 
 ## Etapes :
 
